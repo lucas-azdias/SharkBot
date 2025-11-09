@@ -3,9 +3,9 @@
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucas-azdias/SharkBot/blob/main/SharkBot.ipynb)
 
 ## Team (Integrantes)
+- Lucas Azevedo Dias
 - Guilherme Henrique Eduardo de Lara Peres
 - Henrique Anderle Schulz
-- Lucas Azevedo Dias
 - Rafaela de Miranda
 
 ## Overview
