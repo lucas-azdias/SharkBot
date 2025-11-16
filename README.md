@@ -2,6 +2,8 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucas-azdias/SharkBot/blob/main/SharkBot.ipynb)
 
+Desenvolvido na disciplina de Construção de Interpretadores ministrada pelo prof. [Frank Alcântara](https://github.com/frankalcantara).
+
 ## Team (Integrantes)
 - Lucas Azevedo Dias
 - Guilherme Henrique Eduardo de Lara Peres
